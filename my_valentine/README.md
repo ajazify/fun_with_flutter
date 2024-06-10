@@ -1,16 +1,5 @@
-# my_valentine
+<h1 align="left">My Valentine</h1>
+<h3 align="left"> This is a fun flutter app code which ask you "will you be my valentine? " if you click Yes it will show a cute message , but if you click No the No button will switch position to another place every time you click No. So you will be forced to click Yes! </h3>
+<div>  Share with your loved one! </div>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ajazify/github.io">Try it out!</a>
